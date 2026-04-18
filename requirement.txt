@@ -1,0 +1,6 @@
+langchain_community
+langfuse # optional
+langgraph
+pydantic
+langchain-nvidia-ai-endpoints
+
